@@ -11,9 +11,11 @@ body {
   border-radius: 0;
   border: 0;
 }
-
+#kl{
+  height:50%;
+  width:50p%;
+}
 #logo-img {
-  background: url('techno/k.jpg')  no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
@@ -24,8 +26,8 @@ body {
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #557c3e;
-  font-size: 1.5em;
+  color: purple;
+  font-size: 3em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
