@@ -12,21 +12,21 @@ body {
   border: 0;
 }
 #kl{
-  height:50%;
-  width:50p%;
+  height:50px;
+  width:50px;
 }
 #logo-img {
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
-}
+padding :10px;}
 
 .navbar-brand {
   padding-top: 25px;
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: purple;
+  color: blue;
   font-size: 3em;
   text-transform: uppercase;
   font-weight: bold;
