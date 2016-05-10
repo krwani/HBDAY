@@ -16,6 +16,8 @@ body {
   width:50px;
 }
 #logo-img {
+  background-image: url("k.jpg");
+    background-repeat: no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
