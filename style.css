@@ -12,12 +12,12 @@ body {
   border: 0;
 }
 #ft{margin=0;
-  align:left;
+  text-align:left;
   height:50px;
   width:50px;
 }
 #l{
-  color:blue;
+  color:black;
   font-weight:bold;
 }
 #kl{
