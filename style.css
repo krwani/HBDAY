@@ -11,6 +11,10 @@ body {
   border-radius: 0;
   border: 0;
 }
+#l{
+  color:blue;
+  font-weight:bold;
+}
 #kl{
   height:40px;
   width:40px;
