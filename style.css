@@ -11,7 +11,7 @@ body {
   border-radius: 0;
   border: 0;
 }
-#ft{
+#ft{margin=0;
   align:left;
   height:50px;
   width:50px;
