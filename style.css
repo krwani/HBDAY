@@ -11,6 +11,11 @@ body {
   border-radius: 0;
   border: 0;
 }
+#ft{
+  align:left;
+  height:50px;
+  width:50px;
+}
 #l{
   color:blue;
   font-weight:bold;
