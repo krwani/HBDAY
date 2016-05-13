@@ -40,7 +40,7 @@ padding :10px;}
 }
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
-  color: 000099h;
+  color: 000066h;
   font-size: 4em;
   text-transform: uppercase;
   font-weight: bold;
@@ -56,7 +56,7 @@ padding :10px;}
   text-align: right;
   color: black;
   text-transform: uppercase;
-  font-size: .7em;
+  font-size: 1em;
   margin-top: 15px;
 }
 .navbar-brand p span { 
