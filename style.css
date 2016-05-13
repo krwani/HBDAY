@@ -24,13 +24,16 @@ border:5px solid black;
  height:350px;
  width:100%;position:relative;
  box-sizing: border-box;
- margin: 300px 25px 50px 0;}
+ margin: 300px 25px 50px 0;
+  overflow:hidden;
+}
 .b{
  background-image:url(a.jpg);
 border:5px solid black;
  height:350px;width:100%;position:relative;
  box-sizing: border-box;
  margin: 300px 0px 50px 25px;
+ overflow:hidden;
 }
 .a:hover, .b:hover{
   box-shadow:0 1px 5px 1px #cccccc;
@@ -76,7 +79,7 @@ padding :10px;}
 }
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
-  color: #000099;
+  color: #0000cc;
   font-size: 4em;
   text-transform: uppercase;
   font-weight: bold;
