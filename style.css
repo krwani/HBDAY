@@ -15,6 +15,7 @@ body {
 #clg{
   position:absolute;
   right:0;
+  margin-top:40px;
   color:black;
   font-weight:bold;
   text-transform: uppercase;margin:0;
@@ -24,9 +25,7 @@ body {
   width:130px;
 }
 #l{
-  color:black;
-  font-weight:bold;
- text-align:right;
+  margin:0;
 }
 #kl{
   height:100px;
@@ -45,7 +44,7 @@ padding :10px;}
 }
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
-  color: #2F13B6h;
+  color: blue;
   font-size: 4em;
   text-transform: uppercase;
   font-weight: bold;
