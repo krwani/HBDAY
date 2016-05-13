@@ -15,9 +15,9 @@ body {
 #clg{
   position:absolute;
   right:0;
-  margin-top:40px;
+  margin-top:0;
   color:black;
-  font-weight:bold;
+  
   text-transform: uppercase;
 }
 #ft{margin:0;
