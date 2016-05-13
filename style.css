@@ -12,7 +12,7 @@ body {
   border: 0;
   box-sizing:border-box;
 }
-#ft{
+#ft{margin:0;
   height:91px;
   width:130px;
 }
