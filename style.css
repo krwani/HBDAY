@@ -23,7 +23,7 @@ border:5px solid black;
  height:350px;
  width:500px;position:relative;
  box-sizing: border-box;
- margin: 300px 0 50px 0;
+ margin: 300px 25px 50px 25px;
   overflow:hidden;
 .a{
   background-image:url(a.jpg) no-repeat;
