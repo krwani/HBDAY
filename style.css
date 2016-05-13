@@ -4,7 +4,10 @@ body {
   background-color: blue;
   font-family: 'Oxygen', sans-serif;
 }
-
+.jumbotron>p{
+  margin-left:5px;
+  text-align: justify;
+}
 
 #header-nav {
   background-color: white;
