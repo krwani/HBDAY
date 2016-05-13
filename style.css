@@ -30,7 +30,7 @@ body {
 .a{
   background-image:url(a.jpg) no-repeat;
 }
-.a:hover, .b:hover{
+#map-event:hover{
   box-shadow:0 1px 5px 1px #cccccc;
 }
 #header-nav {
