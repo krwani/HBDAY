@@ -28,7 +28,7 @@ body {
   opacity: .8;
 }
 #event{
-  background-image:url(a.jpg) no-repeat;
+  background:url(a.jpg) no-repeat;
 }
 #map:hover, #event:hover{
   box-shadow:0 1px 5px 1px #cccccc;
