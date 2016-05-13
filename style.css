@@ -277,6 +277,8 @@ h3.menu-item-title {
     height: 675px;
     padding:0;
   }
+  col-lg-6{width:50%;
+}
 }
 
 
@@ -293,7 +295,8 @@ h3.menu-item-title {
     background: url('../images/jumbotron_992.jpg') no-repeat;
     height: 558px;
   }
- 
+ col-md-6{
+  width:50%;}
 }
 
 
@@ -308,7 +311,9 @@ h3.menu-item-title {
 
 
 @media (max-width: 767px) {
-  
+  col-sm-12{
+    width:1;
+  }
   .navbar-brand {
     padding-top: 10px;
     height: 80px;
