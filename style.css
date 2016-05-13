@@ -11,7 +11,7 @@ body {
 #map, #event{
   height: 350px;
   width: 500px;
-  margin-bottom: 15px;
+  margin: 150px 15px 15px 15px;
   position: relative;
   border: 2px solid #3F0C1F;
   overflow: hidden;
