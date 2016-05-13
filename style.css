@@ -22,15 +22,18 @@ border:0 5px 5px 5px solid black;
  background-image:url(a.jpg);
 border:5px solid black;
  height:350px;
- width:500px;
+ width:100%;position:relative;
  box-sizing: border-box;
  margin: 300px 25px 50px 0;}
 .b{
  background-image:url(a.jpg);
 border:5px solid black;
- height:350px;width:500px;
+ height:350px;width:100%;position:relative;
  box-sizing: border-box;
  margin: 300px 0px 50px 25px;
+}
+.a:hover, .b:hover{
+  box-shadow:0 1px 5px 1px #cccccc;
 }
 #header-nav {
   background-color: white;
@@ -73,7 +76,7 @@ padding :10px;}
 }
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
-  color: blue;
+  color: #000099;
   font-size: 4em;
   text-transform: uppercase;
   font-weight: bold;
