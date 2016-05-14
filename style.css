@@ -11,7 +11,7 @@ body {
 #games{
   overflow:auto;
   color:red;
-  font-size:0.8em;
+  font-size:1em;
 }
 #event span{
    position: absolute;
