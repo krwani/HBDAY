@@ -51,7 +51,7 @@ box-sizing:border-box;
   opacity: .8;
 }
 #event{
-  background-color: white;
+  background:url(a.jpg) no-repeat;
 }
 #sponsors{
   background:url(a.jpeg) no-repeat;
