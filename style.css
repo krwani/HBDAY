@@ -1,14 +1,4 @@
-#img-size{
-  padding-right:30px;
-  height:169px;
-  width:110px;
-}
-#hours, #address {
-  line-height: 2;
-}
-#hours > span, #address > span {
-  font-size: 1.3em;
-}
+
 body {
   font-size: 16px;
   color: #fff;
@@ -157,33 +147,22 @@ padding :10px;}
 .panel-footer div.row {
   margin-bottom: 35px;
 }
-
-#footer-clg{
- 
-  position:absolute;
-  left:0;
-  margin-left:30px;
+#img-size{
+  padding-right:30px;
+  height:169px;
+  width:110px;
 }
- #footer-sites {
-  
-  position:absolute;
-  right:0;
-  margin-right:30px;
-  text-align: center;
-}
-#footer-sites > span {
-  font-size: 1.8em;
+#footer-clg, #footer-sites {
+  line-height: 2;
 }
 #footer-clg > span{
-  text-transform:uppercase;
- 
   font-size: 1.3em;
+   text-transform:uppercase;
 }
-#testimonials {
-  font-style: italic;
-}
-#testimonials p:nth-child(2) {
-  margin-top: 25px;
+
+ #footer-sites {
+  text-align: center;
+  font-size: 1.3em;
 }
 
 
