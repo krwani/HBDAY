@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: blue;
+  background-color: #C0CBFF;
   font-family: 'Oxygen', sans-serif;
 }
 .jumbotron>p{
@@ -40,6 +40,7 @@ body {
   box-sizing:border-box;
 }
 #clg{
+ font-family: 'Playfair Display', serif;
   position:absolute;
   right:0;
   margin-top:0;
