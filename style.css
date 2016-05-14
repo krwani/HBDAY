@@ -12,6 +12,7 @@ body {
   position:absolute;
   top:50px;
   height:250px;
+  width:350px;
   overflow:auto;
   color:red;
   font-size:1em;
