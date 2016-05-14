@@ -43,11 +43,12 @@ body {
 #clg{
  font-family: 'Playfair Display', serif;
   position:absolute;
-  right:0;
+  right:30px;
   font-size:1.5em;
  font-weight:bold;
   color:black;vertical-align: middle;
   padding:0;
+  
  margin-top:30px;
  text-align:center;
 }
@@ -149,11 +150,11 @@ padding :10px;}
 }
 #img-size{
   padding-right:30px;
-  height:169px;
+  height:150px;
   width:110px;
 }
 #footer-clg, #footer-sites {
-  line-height: 1.5;
+  line-height: 1.7;
 }
 #footer-clg > span{
   font-size: 1.2em;
