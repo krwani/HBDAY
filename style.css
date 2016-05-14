@@ -43,11 +43,11 @@ body {
  font-family: 'Playfair Display', serif;
   position:absolute;
   right:0;
-  font-size:1em;
+  font-size:1.5em;
  font-weight:bold;
   color:black;vertical-align: middle;
   padding:0;
-  text-transform: uppercase;
+ margin-top:50px;
 }
 #ft{margin:0;
   height:91px;
