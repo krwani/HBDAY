@@ -13,7 +13,7 @@ body {
   color:red;
   font-size:1em;
   padding-top:50px;
-
+white-space: nowrap;
 }
 #event span{
    position: absolute;
