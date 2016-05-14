@@ -12,8 +12,7 @@ body {
    position: absolute;
   top: 0;
   right: 0;
-  
-  border: 2px solid #3F0C1F;
+  border-bottom: 2px solid #3F0C1F;
   width: 350px;
   text-align: center;
   font-size: 1.6em;
@@ -38,7 +37,7 @@ body {
   opacity: .8;
 }
 #sponsors{
-  background:url(a.jpg) no-repeat;
+  background:url(a.jpeg) no-repeat;
 }
 #map:hover, #sponsors:hover{
   box-shadow:0 1px 5px 1px #cccccc;
