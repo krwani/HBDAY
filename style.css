@@ -12,6 +12,7 @@ body {
   overflow:auto;
   color:red;
   font-size:1em;
+  
 }
 #event span{
    position: absolute;
@@ -22,7 +23,7 @@ body {
   text-align: center;
   font-size: 1.6em;
   color:black;
-  padding:10px;
+ 
 }
 #map, #sponsors, #event{
   height: 300px;
