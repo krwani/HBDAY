@@ -36,6 +36,9 @@ body {
   color: #fff;
   opacity: .8;
 }
+#event{
+  background-color: white;
+}
 #sponsors{
   background:url(a.jpeg) no-repeat;
 }
