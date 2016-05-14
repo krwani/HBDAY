@@ -146,10 +146,14 @@ padding :10px;}
 .panel-footer div.row {
   margin-bottom: 35px;
 }
+.img{
+ box-sizing:border-box; 
+ width:166px;
+}
 #img-size{
   height:250px;
-  width:166px;
-  box-sizing:border-box;
+  
+  
 }
 #footer-clg{
   line-height: 2;
@@ -162,6 +166,7 @@ padding :10px;}
   position:absolute;
   right:0;
   margin-right:30px;
+  text-align: right
 }
 #footer-clg >div> span, #footer-sites > span {
   font-size: 1.3em;
