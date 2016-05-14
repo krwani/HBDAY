@@ -156,17 +156,17 @@ padding :10px;}
   
 }
 #footer-clg{
-  line-height: 2;
+ 
   position:absolute;
   left:0;
   margin-left:30px;
 }
  #footer-sites {
-  line-height: 2;
+  
   position:absolute;
   right:0;
   margin-right:30px;
-  text-align: right
+  text-align: center;
 }
 #footer-clg >div> span, #footer-sites > span {
   font-size: 1.3em;
