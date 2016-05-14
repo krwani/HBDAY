@@ -157,7 +157,8 @@ padding :10px;}
 }
 #footer-clg > span{
   font-size: 1.3em;
-   text-transform:uppercase;
+}
+#clg-name{text-transform:uppercase;
 }
 
  #footer-sites {
