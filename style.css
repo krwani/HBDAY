@@ -1,3 +1,12 @@
+#img-size{
+  padding-right:30px;
+}
+#hours, #address {
+  line-height: 2;
+}
+#hours > span, #address > span {
+  font-size: 1.3em;
+}
 body {
   font-size: 16px;
   color: #fff;
