@@ -279,6 +279,7 @@ h3.menu-item-title {
   .container .jumbotron {
     background: url('../images/jumbotron_1200.jpg') no-repeat;
     height: 810px;
+    overflow:hidden;
     padding:0;
   }
   col-lg-6{width:50%;
