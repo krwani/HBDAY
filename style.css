@@ -153,10 +153,10 @@ padding :10px;}
   width:110px;
 }
 #footer-clg, #footer-sites {
-  line-height: 2;
+  line-height: 1.5;
 }
 #footer-clg > span{
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 #clg-name{text-transform:uppercase;
 }
