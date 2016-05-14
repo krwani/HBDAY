@@ -10,7 +10,7 @@ body {
   text-align: justify;
 }
 #map, #event{
-  height: 350px;
+  height: 300px;
   width: 500px;
   margin: auto;
   position: relative;
@@ -21,7 +21,7 @@ body {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 500px;
+  width: 300px;
   text-align: center;
   font-size: 1.6em;
   background-color: #000;
