@@ -8,6 +8,11 @@ body {
   margin-left:5px;
   text-align: justify;
 }
+#games{
+  overflow:auto;
+  color:red;
+  font-size:0.8em;
+}
 #event span{
    position: absolute;
   top: 0;
