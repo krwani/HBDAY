@@ -148,11 +148,11 @@ padding :10px;}
 }
 .img{
  box-sizing:border-box; 
- width:166px;
+ width:133px;
 }
 #img-size{
-  height:250px;
-  
+  height:200px;
+   width:133px;
   
 }
 #footer-clg{
@@ -173,6 +173,7 @@ padding :10px;}
 }
 #footer-clg >div> span{
   text-transform:uppercase;
+  padding-left: 30px;
 }
 #testimonials {
   font-style: italic;
