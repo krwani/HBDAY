@@ -12,7 +12,8 @@ body {
   overflow:auto;
   color:red;
   font-size:1em;
-  
+  padding-top:150px;
+  padding-bottom:150px;
 }
 #event span{
    position: absolute;
