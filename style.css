@@ -146,17 +146,13 @@ padding :10px;}
 .panel-footer div.row {
   margin-bottom: 35px;
 }
-#hours, #address {
+#footer-clg, #footer-sites {
   line-height: 2;
 }
-#hours > span, #address > span {
+#footer-clg > span, #footer-sites > span {
   font-size: 1.3em;
 }
-#address p {
-  color: #557c3e;
-  font-size: .8em;
-  line-height: 1.8;
-}
+
 #testimonials {
   font-style: italic;
 }
