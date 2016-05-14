@@ -9,6 +9,7 @@ body {
   text-align: justify;
 }
 #games{
+  height:250px;
   overflow:auto;
   color:red;
   font-size:1em;
