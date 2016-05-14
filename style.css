@@ -9,11 +9,13 @@ body {
   text-align: justify;
 }
 #games{
+  position:absolute;
+  top:50px;
   height:250px;
   overflow:auto;
   color:red;
   font-size:1em;
-  padding-top:50px;
+  
 white-space: nowrap;
 box-sizing:border-box;
 }
