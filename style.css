@@ -146,15 +146,7 @@ padding :10px;}
 .panel-footer div.row {
   margin-bottom: 35px;
 }
-.img{
- box-sizing:border-box; 
- width:133px;
-}
-#img-size{
-  height:200px;
-   width:133px;
-   padding-right: 30px;
-}
+
 #footer-clg{
  
   position:absolute;
