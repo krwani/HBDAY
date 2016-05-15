@@ -57,7 +57,7 @@ box-sizing:border-box;
   background:url(a.jpeg) no-repeat;
 }
 #map:hover, #sponsors:hover{
-  box-shadow:2px 2px 2px 2px #BBBBBB;
+  box-shadow:2px 2px 2px 2px white;
 }
 #header-nav {
   background-color: white;
