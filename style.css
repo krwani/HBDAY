@@ -201,8 +201,14 @@ background-color:#262626;}
 #slogan{
   margin-bottom:10px;
 }
-.img-responsive{
-  height:600px;
+.img-responsive {
+    height: 605px;
+    width: 100%;
+}
+#img-size {
+    padding-right: 10px;
+    height: 190px;
+    width: 130px;
 }
 #map{
   margin-top:20px;
@@ -223,30 +229,39 @@ background-color:#262626;}
 
   .container .jumbotron {
     /*background: url('../images/jumbotron_768.jpg') no-repeat;*/
-    height: 600px;
+    height: 605px;width:940px;
     padding:0;
   }
   .img-responsive{
   height:380px;
+  width:100%;
 }
  .jumbotron>p{
-    height: 200px;
+    height: 150px;
     overflow:auto;
   }
-  #home-titles{
+  #sponsors,#event,#map{
     margin-left:auto;
     margin-right:auto;
-    margin-up:30px;
+    margin-top:30px;
   margin-bottom:30px;
   }
-  #logo-img{
+ /* #logo-img{
     background: url('j3.jpg') no-repeat;
     margin: 5px 5px 5px 0;
-  }
+  }*/
   #clg{
-    font-size:0.8em;
+    font-size:1.2em;
+    position:absolute;
+    right:10px;
   }
-  
+  .navbar-brand h1 {
+    width:80%;}
+  #img-size {
+    padding-right: 10px;
+    height: 190px;
+    width: 130px;
+}
 }
 
 @media (max-width: 767px) {
@@ -260,9 +275,10 @@ background-color:#262626;}
   .navbar-brand h1 { 
     padding-top: 10px;
     font-size: 5vw; 
+   width: 80%;
   }
   #slogan{ 
-    font-size: .6em;
+    font-size: .7em;
     margin-top: 12px;
   }
   .panel-footer section {
@@ -283,19 +299,26 @@ background-color:#262626;}
     height: 200px;
     overflow:auto;
   }
-  #home-titles{
+ #sponsors,#event,#map{
     margin-left:auto;
     margin-right:auto;
     margin-up:30px;
   margin-bottom:30px;
   }
-   #logo-img{
+   #logo-img {
     background: url('j3.jpg') no-repeat;
-    margin: 5px 5px 5px 0;
-  }
+    margin: 5px 5px 5px 5px;
+    width: 100px;
+    height: 85px;
+}
   #clg{
-    font-size:0.8em;
+    font-size:0.9em;
   }
+  #img-size {
+    padding-right: 5px;
+    height: 150px;
+    width: 110px;
+}
 }
 
 @media (max-width: 479px) {
@@ -304,7 +327,13 @@ background-color:#262626;}
     padding-top: 5px;
     font-size: 6vw;
   }
-
+    .panel-footer {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: #222;
+    border-top: 0;
+    font-size: 0.6em;
+}
   .col-xxs-12 {
     position: relative;
     min-height: 1px;
@@ -313,7 +342,15 @@ background-color:#262626;}
     float: left;
     width: 100%;
   }
-  #home-titles{
+  #slogan{
+    font-size:0.5em;
+  }
+  #img-size {
+    padding-right: 5px;
+    height: 81px;
+    width: 70px;
+}
+  #sponsors,#event,#map{
     margin-left:auto;
     margin-right:auto;
     margin-up:30px;
@@ -322,8 +359,12 @@ background-color:#262626;}
   #logo-img{
     background: url('j3.jpg') no-repeat;
     margin: 5px 5px 5px 0;
+    height: 85px;
+    width: 100px;
   }
   #clg{
     font-size:0.6em;
+    position: absolute;
+    right: 5px;
   }
 }
