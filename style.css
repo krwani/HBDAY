@@ -302,7 +302,7 @@ h3.menu-item-title {
   font-size: .9em;
   font-style: italic;
 }
-
+/*
 @media (min-width: 1200px) {
   .container .jumbotron {
     background: url('../images/jumbotron_1200.jpg') no-repeat;
@@ -442,3 +442,4 @@ h3.menu-item-title {
     width: 100%;
   }
 }
+*/
