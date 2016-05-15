@@ -192,16 +192,16 @@ background-color:#262626;}
 
 @media (min-width: 992px) and (max-width: 1199px) {
  
-  #logo-img {
-    /*background: url('../images/restaurant-logo_medium.png') no-repeat;*/
+  /*#logo-img {
+    background: url('../images/restaurant-logo_medium.png') no-repeat;
     width: 80%;
     height: 80%;
     margin: 5px 5px 5px 0;
-  }
+  }*/
 #slogan{
   margin-bottom:10px;
 }
-#img-responsive{
+.img-responsive{
   height:600px;
 }
 #map{
@@ -226,7 +226,7 @@ background-color:#262626;}
     height: 600px;
     padding:0;
   }
-  #img-responsive{
+  .img-responsive{
   height:380px;
 }
  .jumbotron>p{
@@ -240,8 +240,8 @@ background-color:#262626;}
   margin-bottom:30px;
   }
   #logo-img{
-    height:50%;
-    width:50%;
+    background: url('j3.jpg') no-repeat;
+    margin: 5px 5px 5px 0;
   }
   #clg{
     font-size:0.8em;
@@ -289,16 +289,14 @@ background-color:#262626;}
     margin-up:30px;
   margin-bottom:30px;
   }
-  #logo-img{
-    height:50%;
-    width:50%;
+   #logo-img{
+    background: url('j3.jpg') no-repeat;
+    margin: 5px 5px 5px 0;
   }
   #clg{
     font-size:0.8em;
   }
 }
-
-
 
 @media (max-width: 479px) {
  
@@ -322,8 +320,8 @@ background-color:#262626;}
   margin-bottom:30px;
   }
   #logo-img{
-    height:35%;
-    width:35%;
+    background: url('j3.jpg') no-repeat;
+    margin: 5px 5px 5px 0;
   }
   #clg{
     font-size:0.6em;
