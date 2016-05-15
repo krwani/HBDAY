@@ -202,9 +202,11 @@ background-color:#262626;}
   .container .jumbotron {
     background: url('../images/jumbotron_992.jpg') no-repeat;
     height: 558px;
+  }col-md-12{
+    width:100%;
   }
- col-md-4{
-  width:33%;}
+ col-md-6{
+  width:50%;}
 }
 
 
@@ -252,6 +254,10 @@ background-color:#262626;}
   .container .jumbotron {
     margin-top: 30px;
     padding: 0;
+  }
+  .jumbotron>p{
+    height: 200px;
+    overflow:auto;
   }
 }
 
