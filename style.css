@@ -308,6 +308,7 @@ background-color:#262626;}
   .jumbotron>p{
     height: 200px;
     overflow:auto;
+    font-size: 18px;
   }
  #sponsors,#event,#map{
     margin-left:auto;
