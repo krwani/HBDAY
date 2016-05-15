@@ -117,7 +117,7 @@ padding :10px;}
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-h1>p {
+#slogan {
   text-align: right;
   color: black;
   text-transform: uppercase;
