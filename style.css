@@ -117,7 +117,7 @@ padding :10px;}
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-.navbar-brand p {
+h1>p {
   text-align: right;
   color: black;
   text-transform: uppercase;
@@ -193,15 +193,18 @@ background-color:#262626;}
 @media (min-width: 992px) and (max-width: 1199px) {
  
   #logo-img {
-    background: url('../images/restaurant-logo_medium.png') no-repeat;
+    /*background: url('../images/restaurant-logo_medium.png') no-repeat;*/
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
   }
-  
+/* .img-responsive{
+   height:59%;
+ }*/
   .container .jumbotron {
-    background: url('../images/jumbotron_992.jpg') no-repeat;
-    height: 558px;
+    background: no-repeat;
+    height: 804px;
+    padding:0;
   }col-md-12{
     width:100%;
   }
@@ -216,7 +219,20 @@ background-color:#262626;}
     background: url('../images/jumbotron_768.jpg') no-repeat;
     height: 432px;
   }
- 
+ .jumbotron>p{
+    height: 200px;
+    overflow:auto;
+  }
+  #home-titles{
+    margin:auto;
+  }
+  #logo-img{
+    height:50%;
+    width:50%;
+  }
+  #clg{
+    font-size:0.5em;
+  }
 }
 
 
@@ -259,6 +275,16 @@ background-color:#262626;}
     height: 200px;
     overflow:auto;
   }
+  #home-titles{
+    margin:auto;
+  }
+  #logo-img{
+    height:50%;
+    width:50%;
+  }
+  #clg{
+    font-size:0.5em;
+  }
 }
 
 
@@ -277,5 +303,15 @@ background-color:#262626;}
     padding-left: 15px;
     float: left;
     width: 100%;
+  }
+  #home-titles{
+    margin:auto;
+  }
+  #logo-img{
+    height:25%;
+    width:25%;
+  }
+  #clg{
+    font-size:0.3em;
   }
 }
