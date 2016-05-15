@@ -194,13 +194,19 @@ background-color:#262626;}
  
   #logo-img {
     /*background: url('../images/restaurant-logo_medium.png') no-repeat;*/
-    width: 100px;
-    height: 100px;
+    width: 80%;
+    height: 80%;
     margin: 5px 5px 5px 0;
   }
-/* .img-responsive{
-   height:59%;
- }*/
+#slogan{
+  margin-bottom:10px;
+}
+#img-responsive{
+  height:600px;
+}
+#map{
+  margin-top:20px;
+}
   .container .jumbotron {
     background: no-repeat;
     height: 804px;
@@ -216,25 +222,32 @@ background-color:#262626;}
 @media (min-width: 768px) and (max-width: 991px) {
 
   .container .jumbotron {
-    background: url('../images/jumbotron_768.jpg') no-repeat;
-    height: 432px;
+    /*background: url('../images/jumbotron_768.jpg') no-repeat;*/
+    height: 600px;
+    padding:0;
   }
+  #img-responsive{
+  height:380px;
+}
  .jumbotron>p{
     height: 200px;
     overflow:auto;
   }
   #home-titles{
-    margin:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-up:30px;
+  margin-bottom:30px;
   }
   #logo-img{
     height:50%;
     width:50%;
   }
   #clg{
-    font-size:0.5em;
+    font-size:0.8em;
   }
+  
 }
-
 
 @media (max-width: 767px) {
   col-sm-12{
@@ -248,14 +261,10 @@ background-color:#262626;}
     padding-top: 10px;
     font-size: 5vw; 
   }
-  .navbar-brand p { 
+  #slogan{ 
     font-size: .6em;
     margin-top: 12px;
   }
-  .navbar-brand p img { 
-    height: 20px;
-  }
- 
   .panel-footer section {
     margin-bottom: 30px;
     text-align: center;
@@ -266,7 +275,6 @@ background-color:#262626;}
   .panel-footer section hr {
     width: 50%;
   }
-  
   .container .jumbotron {
     margin-top: 30px;
     padding: 0;
@@ -276,14 +284,17 @@ background-color:#262626;}
     overflow:auto;
   }
   #home-titles{
-    margin:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-up:30px;
+  margin-bottom:30px;
   }
   #logo-img{
     height:50%;
     width:50%;
   }
   #clg{
-    font-size:0.5em;
+    font-size:0.8em;
   }
 }
 
@@ -305,13 +316,16 @@ background-color:#262626;}
     width: 100%;
   }
   #home-titles{
-    margin:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-up:30px;
+  margin-bottom:30px;
   }
   #logo-img{
-    height:25%;
-    width:25%;
+    height:35%;
+    width:35%;
   }
   #clg{
-    font-size:0.3em;
+    font-size:0.6em;
   }
 }
