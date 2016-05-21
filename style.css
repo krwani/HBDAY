@@ -13,7 +13,7 @@ body {
   top:50px;
   height:250px;
   width:350px;
-  overflow:auto;
+ /*overflow:auto;*/
   color:red;
   font-size:1em;
   padding-bottom:20px;
