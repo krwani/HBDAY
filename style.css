@@ -11,9 +11,9 @@ body {
 #games{
   position:absolute;
   top:50px;
-  height:250px;
-  width:350px;
- /*overflow:auto;*/
+  /*height:250px;
+  width:350px;*/
+ overflow:hidden;
   color:red;
   font-size:1em;
   padding-bottom:20px;
