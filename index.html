@@ -29,7 +29,9 @@
           </div>
           </nav>
     </header>
-    <input type="text" name="firstname" value="Ex.Sponsors, Events, Map, etc."><button>Search</button>
+    <input type="text" name="firstname" value="Ex.Sponsors, Events, Map, etc."
+     onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';">
+     <span><button>Search</button></span>
     <div id="main-content" class="container">
       <div class="jumbotron">
         <p>Due to inundating creativity and thirst for innovation of our students and with the constant guidance of 
