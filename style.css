@@ -8,6 +8,9 @@ body {
   margin-left:5px;
   text-align: justify;
 }
+marquee{
+white-space: nowrap;
+}
 button{
   background-color:gray;
   color:white;
