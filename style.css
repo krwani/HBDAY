@@ -20,6 +20,7 @@ input{
   color:black;
   background-color:white;
   position:absolute;
+  border:2px solid black;
   right:0;
   margin:0;
 }
