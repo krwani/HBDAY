@@ -144,7 +144,9 @@ padding :10px;}
 .navbar-brand p span { 
   vertical-align: middle;
 }
-
+#header-nav{
+  margin-bottom: 0;
+}
 #nav-list {
   margin-top: 10px;
 }
@@ -191,7 +193,9 @@ padding :10px;}
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
   padding:0;
-background-color:#262626;}
+background-color:#262626;
+      margin-top: 30px;
+}
 
 
 @media (min-width: 1200px) {
@@ -205,7 +209,7 @@ background-color:#262626;}
   col-lg-4{width:33%;
 }
 input{
-  width=100px;
+  width=300px;
 }
 }
 
@@ -218,6 +222,9 @@ input{
     height: 80%;
     margin: 5px 5px 5px 0;
   }*/
+  input{
+  width=300px;
+}
 #slogan{
   margin-bottom:10px;
 }
@@ -246,7 +253,9 @@ input{
 
 
 @media (min-width: 768px) and (max-width: 991px) {
-
+input{
+  width=300px;
+}
   .container .jumbotron {
     /*background: url('../images/jumbotron_768.jpg') no-repeat;*/
     height: 605px;
@@ -298,6 +307,9 @@ input{
   col-sm-12{
     width:100%;
   }
+  input{
+  width=300px;
+}
   .navbar-brand {
     padding-top: 10px;
     height: 80px;
@@ -353,6 +365,9 @@ input{
 }
 
 @media (max-width: 479px) {
+  input{
+  width=300px;
+}
   .navbar-brand{
         padding: 10px 10px 0 0;
   }
