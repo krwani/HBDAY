@@ -1,5 +1,5 @@
 function myFunction() {
-    var x, output;
+    var x;
     x = document.getElementById("input").value;
     if (x==="events"||(x==="Events"||(x==="EVENTS") {
         window.open("http://technovanza.org/autobots.php");
@@ -12,5 +12,4 @@ function myFunction() {
     }
     else{
     window.alert("Invalid input");}
-    document.getElementById("demo").innerHTML = output;
 }
