@@ -368,7 +368,7 @@ input{
 
 @media (max-width: 479px) {
   input{
-  width:300px;
+  width:200px;
 }
 .container .jumbotron {
     margin-top: 50px;
