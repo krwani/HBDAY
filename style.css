@@ -261,6 +261,7 @@ input{
     /*background: url('../images/jumbotron_768.jpg') no-repeat;*/
     height: 605px;
     padding:0;
+     margin-top: 50px;
   }
   .img-responsive{
   height:438px;
@@ -335,7 +336,7 @@ input{
     width: 50%;
   }
   .container .jumbotron {
-    margin-top: 30px;
+    margin-top: 50px;
     padding: 0;
   }
   .jumbotron>p{
@@ -369,6 +370,10 @@ input{
   input{
   width:300px;
 }
+.container .jumbotron {
+    margin-top: 50px;
+    padding: 0;
+  }
   .navbar-brand{
         padding: 10px 10px 0 0;
   }
