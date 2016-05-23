@@ -36,10 +36,10 @@ input{
 /* overflow:hidden;
  display:block;*/
   color:red;
- /* font-size:1em;
+ font-size:1em;
   padding-bottom:20px;
 white-space: nowrap;
-box-sizing:border-box;*/
+box-sizing:border-box;
 }
 #event span{
    position: absolute;
