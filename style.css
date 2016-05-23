@@ -29,11 +29,11 @@ input{
   
 }
 #games{
-  position:absolute;
+ /* position:absolute;
   top:50px;
-  /*height:250px;
-  width:350px;*/
-/* overflow:hidden;
+  height:250px;
+  width:350px;
+ overflow:hidden;
  display:block;*/
   color:red;
  font-size:1em;
