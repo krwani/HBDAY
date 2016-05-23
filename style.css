@@ -367,6 +367,9 @@ input{
     height: 150px;
     width: 110px;
 }
+ #map span,#sponsors span,#event span{
+    width: 100%;
+  }
 }
 
 @media (max-width: 479px) {
@@ -435,5 +438,8 @@ input{
     font-size:0.6em;
     position: absolute;
     right: 5px;
+  }
+  #map span,#sponsors span,#event span{
+    width: 100%;
   }
 }
