@@ -1,7 +1,7 @@
 function myFunction() {
     var x, output;
     x = document.getElementById("input").value;
-    if (x==="events") {
+    if (x==="events"||x==="Events"||x==="EVENTS") {
         window.open("http://technovanza.org/autobots.php");
     } 
     else if(x==="sponsors"){
